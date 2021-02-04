@@ -1,0 +1,4 @@
+[submodule "git-test-2"]
+	path = git-test-2
+	url = https://github.com/microbit-matt-hillsdon/git-test-2.git
+	branch = main
